@@ -2,7 +2,11 @@
 Launch School basics exercises
 
 Topics covered in this section include:
+
+
 -Strings and string interpolation
+
+
 -Symbols
 -Numbers (integers and floats) 
 -Nil 
