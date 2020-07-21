@@ -1,5 +1,5 @@
 # the_basics_exercises
-Launch School basics exercises
+Launch School Ruby track basics exercises
 
 Topics covered in this section include:
 
