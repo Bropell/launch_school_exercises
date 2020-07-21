@@ -1,7 +1,7 @@
 # the_basics_exercises
 Launch School basics exercises
 
-Topics covered in this section include: \n
+Topics covered in this section include:
 -Strings and string interpolation
 -Symbols
 -Numbers (integers and floats) 
