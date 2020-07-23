@@ -1,4 +1,4 @@
-#Launch School Exercises
+# Launch School Exercises
 
 These are all the exercises completed for the Ruby track
 at Launch School. This is my first attempt at learning the 
