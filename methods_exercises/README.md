@@ -1,4 +1,4 @@
-Launch School Ruby track methods exercises
+Launch School Ruby track methods exercises.
 
 Topics covered in this section include:
 
