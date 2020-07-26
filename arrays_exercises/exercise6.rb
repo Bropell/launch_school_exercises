@@ -2,7 +2,7 @@
 # an error message as such
 
 names = ['bob', 'joe', 'susan', 'margaret']
-#names['margaret'] = 'jody'
+names['margaret'] = 'jody'
 
 #TypeError: no implicit conversion of String into Integer
 #  from (irb):2:in `[]='
