@@ -22,5 +22,20 @@ college_friends = { jason: "freshman year",
 grade_school_friends.merge(college_friends)
 p grade_school_friends #hash is unmodified but returns new hash
 
+#Returns {:sasha=>"5th grade", :ron=>"12th grade", 
+#:victor=>"7th grade", :jason=>"freshman year", 
+#:chris=>"junior year", :marcin=>"sophomore year"}
+
+#grade_school_friends = {:sasha=>"5th grade", :ron=>"12th grade", :victor=>"7th grade"}
+
+
 grade_school_friends.merge!(college_friends)
 p grade_school_friends #Original hash is now modified to the new hash.
+
+#Returns {:sasha=>"5th grade", :ron=>"12th grade", 
+#:victor=>"7th grade", :jason=>"freshman year", 
+#:chris=>"junior year", :marcin=>"sophomore year"}
+
+#grade_school_friends = {:sasha=>"5th grade", :ron=>"12th grade", 
+#:victor=>"7th grade", :jason=>"freshman year", 
+#:chris=>"junior year", :marcin=>"sophomore year"}
