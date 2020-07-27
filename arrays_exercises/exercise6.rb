@@ -16,4 +16,4 @@ names['margaret'] = 'jody'
 #modify the array by using the integer value for the 
 #index where the string 'margaret' is located
 
-names[3] = 'jody'
+puts names[names.index('margaret')] = 'jody'
