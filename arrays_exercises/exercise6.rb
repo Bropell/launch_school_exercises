@@ -14,6 +14,9 @@ names['margaret'] = 'jody'
 #Problem is 'margaret' is a string and you cannot access
 #an item in an array with a string as the key. You can 
 #modify the array by using the integer value for the 
-#index where the string 'margaret' is located
+#index where the string 'margaret' is located (solution1)
+#or you can call the index where 'margaret' is located
+#wherever it may be (solution2) which is less hard-coded
 
-puts names[names.index('margaret')] = 'jody'
+names[3] = 'jody'  #solution 1
+names[names.index('margaret')] = 'jody'  #solution 2
