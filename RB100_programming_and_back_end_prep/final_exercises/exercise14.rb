@@ -6,6 +6,6 @@ a = ['white snow', 'winter wonderland', 'melting ice',
 #and turn it into a new array that consists of strings
 #containing one word.
 
-a_new = a.map.each {|string| string.split(" ")}
+a_new = a.map {|string| string.split(" ")}
 
 p a_new.flatten
